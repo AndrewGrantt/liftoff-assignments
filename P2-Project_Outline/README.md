@@ -10,7 +10,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 For all those wondering, we are a group of web developers hoping to add value to your business with ProductPal! 
 Do you have a business in which you take inventory of products? Are the costs for inventory software a bit high for your needs? We can help each other by using our free SpringBoot app, ProductPal.
 
-This inventory mananegement app  is a perfect tool to help keep track of growing business and organize your variety of products, for FREE! The catch? You are helping perfect our development skills and our app by using it to interact with you product activity, all while keeping your business information saved in one place. 
+This inventory management app  is a perfect tool to help keep track of growing business and organize your variety of products, for FREE! The catch? You are helping perfect our development skills and our app by using it to interact with you product activity, all while keeping your business information saved in one place. 
 
 So with it being a win-win for all parties, ProductPal is a champion for your inventory management needs!
 
