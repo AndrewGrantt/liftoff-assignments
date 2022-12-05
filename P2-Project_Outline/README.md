@@ -30,10 +30,15 @@ Database- Users will be able to create a profile and edit their stored lists and
 
 # Technologies
 JavaScript
+
 HTML
+
 CSS
+
 Bootstrap
+
 MongoDB
+
 Java
 
 ### What I'll Have to Learn
